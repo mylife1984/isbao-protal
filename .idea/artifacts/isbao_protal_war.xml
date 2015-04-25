@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="isbao-protal:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="isbao-portal.war">
+      <element id="artifact" artifact-name="isbao-protal:war exploded" />
+    </root>
+  </artifact>
+</component>
